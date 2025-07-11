@@ -1,4 +1,3 @@
-# DjangoTweet
 # DjangoTweet 🐦
 
 A simple Twitter-like microblogging application built using Django. Users can register, login, post tweets with optional images, and edit/delete their own tweets.
