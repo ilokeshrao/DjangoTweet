@@ -4,6 +4,7 @@ A simple Twitter-like microblogging application built using Django. Users can re
 
 ## 🚀 Features
 
+
 - User Registration & Authentication
 - Tweet Creation with optional image upload
 - Edit/Delete your own Tweets
